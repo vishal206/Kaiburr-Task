@@ -45,5 +45,8 @@ Accept server object in body in json format. This updates the object if it alrea
 - DELETE server	`http://localhost:8080/server?id=3`
 Deletes a  server object with provided ID.
 
+### Screenshots
+
+![Get all servers](/screenshots/getAllServer.png)
 
 **Connect with me on [twitter](https://twitter.com/vishalr206) or [linkedIn](https://www.linkedin.com/in/vishal-r-5a7184195/) in case if you need any clarification**
